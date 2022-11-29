@@ -7,8 +7,8 @@ i = 1
 while (i != number):
     i += 1
 if (number > 0):
-    print("{} is positive".format(number))
+    print("{:d} is positive".format(number))
 elif(number < 0):
-    print("{} is negative".format(number))
+    print("{:d} is negative".format(number))
 elif(number == 0):
-    print("{} is zero".format(number))  
+    print("{:d} is zero".format(number))  
