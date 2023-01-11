@@ -1,8 +1,6 @@
 #!/usr/bin/python3
-"""Defines an empty class."""
+"""Defines an empty class BaseGeometry."""
 
 class BaseGeometry:
-    """Afunction that returns an
-    empty class.
-    """
+    """This class has no content yet"""
     pass
